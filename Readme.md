@@ -16,7 +16,7 @@ To get started with this template, follow these steps:
 1. Clone this repository or download the ZIP file.
 
    ```bash
-   git clone https://github.com/ameer-ali-jamali/cse-muet-uit.git
+   git clone https://github.com/ameer-ali-jamali/Cse_Muet_Uit.git 
    ```
 
 2. Open the `index.html` file in your preferred code editor or browser to view the template.
